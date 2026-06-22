@@ -256,9 +256,9 @@
         alpha: 1.0,
     )),
     primary_container_bg: Some((
-        red: 0.11764705,
-        green: 0.13333333,
-        blue: 0.15294117,
+        red: 0.05490196,
+        green: 0.06666667,
+        blue: 0.08235294,
         alpha: 1.0,
     )),
     secondary_container_bg: None,
